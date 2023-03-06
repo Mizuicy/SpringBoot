@@ -1,4 +1,4 @@
-package com.example.Teste.Controller;
+package com.example.Teste;
 
 public enum Especialidade {
 
